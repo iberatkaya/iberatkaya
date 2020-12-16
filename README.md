@@ -1,6 +1,6 @@
 #### Hello and welcome to my GitHub page.
 
-My name is Ibrahim Berat Kaya. I study computer engineering at Istanbul Technical University and I am in my senior year. I am from PA, USA. I am 22 years old. I currently reside in Istanbul. Checkout my [Portfolio](https://iberatkaya.github.io/#/) to learn more about me and my projects.
+My name is Ibrahim Berat Kaya. I study computer engineering at Istanbul Technical University and I am in my senior year. Checkout my [Portfolio](https://iberatkaya.github.io/#/) to learn more about me and my projects.
 
 <div style="display: flex; flexDirection: row"}>
 <img src="https://github-readme-stats.vercel.app/api?username=iberatkaya&hide=prs,issues&show_icons=true" />
