@@ -1,6 +1,6 @@
 ## Welcome to my GitHub page 👋
 
-My name is Ibrahim Berat Kaya. I study computer engineering at Istanbul Technical University and I am in my senior year. Checkout [my portfolio](https://iberatkaya.github.io/#/) to learn more about me and my projects.
+Hello, my name is Ibrahim Berat Kaya. Checkout [my portfolio](https://iberatkaya.github.io/#/) to learn more about me and my projects.
 
 ### Links
 
